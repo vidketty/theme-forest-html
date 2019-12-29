@@ -94,7 +94,7 @@
     "gulp-usemin": "^0.3.29",
     "gulp-util": "^3.0.8",
     "gulp-zip": "^4.2.0",
-    "handlebars": "^4.0.12",
+    "handlebars": "^4.3.0",
     "handlebars-helpers": "^0.10.0",
     "handlebars-layouts": "^3.1.4",
     "imagemin-pngquant": "^6.0.0",
